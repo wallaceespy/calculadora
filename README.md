@@ -1,4 +1,4 @@
-🖩 
+
 
 Esta é uma calculadora simples desenvolvida utilizando HTML, CSS e JavaScript. Ela permite realizar operações básicas de adição, subtração, multiplicação e divisão, proporcionando uma interface intuitiva e responsiva.
 
